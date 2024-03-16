@@ -6,6 +6,14 @@ barrios populares en la República Argentina. Para ello, analizaremos el dataset
 del Ministerio de Desarrollo Social, Secretaría de Integración Socio Urbana
 <https://datos.gob.ar/dataset/desarrollo-social-registro-nacional-barrios-populares/archivo/desarrollo-social_9a951270-60dd-4f21-aa19-4ef1205620bd>.
 
+### Población por departamento
+* Población por departamento y proyecciones 
+** **Ciudad autónoma de Buenos Aires**
+
+https://www.indec.gob.ar/ftp/cuadros/poblacion/proy_1025_depto_caba.xls
+** **Provincia de Buenos Aires**:
+https://www.indec.gob.ar/ftp/cuadros/poblacion/proy_1025_depto_buenos_aires.xls
+
 
 ## Análisis a realizar
 * Localización de los barrios populares agregados por provincia y por departamento.
