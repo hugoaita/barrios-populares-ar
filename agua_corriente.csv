@@ -1,0 +1,11 @@
+id_agua_corriente,agua_corriente
+1,Bomba de agua de pozo domiciliaria
+2,Conexión irregular a la red de agua
+3,Conexión formal a la red de agua con factura
+4,Bomba de agua de pozo comunitaria
+5,Camión cisterna
+6,Conexión regular a la red de agua pero sin factura
+7,Acarreo de baldes/recipientes desde fuera del barrio
+8,Canilla comunitaria dentro del barrio
+9,"Vertiente, arroyo, río o canal"
+10,Cosecha/recolección de agua de lluvia

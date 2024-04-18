@@ -1,0 +1,11 @@
+id_energia_electrica,energia_electrica
+1,Conexión regular a la red con medidor prepago
+2,Conexión irregular a la red
+3,Conexión formal a la red con medidor domiciliario con factura
+4,Conexión a la red con medidor comunitario
+5,Conexión regular a la red con medidor domiciliario con consumo limitado
+6,No tiene conexión eléctrica
+7,Energía solar
+8,Generador eléctrico a combustión
+9,Conexión a la red con medidor compartido
+10,Conexión regular a la red con medidor domiciliario pero sin factura

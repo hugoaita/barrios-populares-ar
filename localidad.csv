@@ -1,0 +1,1061 @@
+id_localidad,id_departamento,localidad
+1,1,Presidente Derqui
+2,1,Pilar
+3,1,Villa Rosa
+4,1,Manzanares
+5,1,Villa Astolfi
+6,1,Lagomarsino
+7,1,La Lonja
+8,1,Fátima
+9,1,Manuel Alberti
+10,1,Del Viso
+11,1,Zelaya
+12,2,José Melchor Romero
+13,2,Angel Etcheverry
+14,2,Tolosa
+15,2,City Bell
+16,2,Manuel B. Gonnet
+17,2,Gorina
+18,2,José Hernández
+19,2,Villa Elisa
+20,2,Arturo Seguí
+21,2,Lisandro Olmos
+22,2,San Carlos
+23,2,Los Hornos
+24,2,Villa Elvira
+25,2,Altos De San Lorenzo
+26,2,Abasto
+27,2,El Peligro
+28,2,Arana
+29,2,Lomas De Copello
+30,2,Ringuelet
+31,2,La Plata
+32,3,Burzaco
+33,3,Longchamps
+34,3,Rafael Calzada
+35,3,Glew
+36,3,Don Orione
+37,3,Claypole
+38,3,San José
+39,3,Solano
+40,3,Ministro Rivadavia
+41,3,José Marmol
+42,3,Malvinas Argentinas
+43,4,Quilmes
+44,4,Bernal Oeste
+45,4,Ezpeleta
+46,4,Villa La Florida
+47,4,Quilmes Oeste
+48,4,San Francisco Solano
+49,4,Don Bosco
+50,4,Bernal
+51,5,Lavallol
+52,5,Santa Catalina
+53,5,Villa Fiorito
+54,5,Villa Albertina
+55,5,Villa Centenario
+56,5,Villa Lamadrid
+57,5,Ingeniero Budge
+58,5,Temperley
+59,5,Parque Barón
+60,6,Dock Sud
+61,6,Piñeyro
+62,6,Gerli
+63,6,Villa Domínico
+64,6,Sarandí
+65,6,Crucecita
+66,6,Zona De Reserva
+67,6,Wilde
+68,6,Avellaneda
+69,7,Campana
+70,7,Ingeniero Otamendi
+71,8,José C. Paz
+72,9,Bíllinghurst
+73,9,Villa Maipú
+74,9,Loma Hermosa
+75,9,Villa Granaderos De San Martín
+76,9,San Andrés
+77,9,José León Suárez
+78,9,Villa Ballester
+79,9,Villa Libertad
+80,9,Villa Ayacucho
+81,9,Villa Lynch
+82,10,Florencio Varela
+83,10,Ingeniero Allan
+84,10,Gobernador Costa
+85,10,Bosques
+86,10,Estanislao Severo Zeballos
+87,10,Santa Rosa
+88,10,La Capilla
+89,10,Villa Brown
+90,10,Villa Vatteone
+91,10,Villa San Luis
+92,11,Don Torcuato
+93,11,Benavídez
+94,11,El Talar
+95,11,General Pacheco
+96,11,Rincón De Milberg
+97,11,Tigre
+98,11,Don Torcuato Este
+99,11,Ricardo Rojas
+100,11,Los Troncos Del Talar
+101,11,Dique Luján
+102,12,Cañuelas
+103,12,Máximo Paz
+104,13,General Rodríguez
+105,14,Rafael Castillo
+106,14,Virrey Del Pino
+107,14,Villa Luzuriaga
+108,14,San Justo
+109,14,Ciudad Evita
+110,14,Isidro Casanova
+111,14,Gregorio De Laferrere
+112,14,La Tablada
+113,14,Villa Celina
+114,14,González Catán
+115,14,Lomas Del Mirador
+116,14,Ciudad Madero
+117,14,Tapiales
+118,14,Aldo Bonzi
+119,14,Ramos Mejía
+120,15,La Reja
+121,15,Cuartel V
+122,15,Moreno
+123,15,Paso Del Rey
+124,15,Trujui
+125,15,Francisco Álvarez
+126,16,San Pedro
+127,16,Río Tala
+128,16,Santa Lucía
+129,17,Pontevedra
+130,17,Libertad
+131,17,Merlo
+132,17,Mariano Acosta
+133,17,Parque San Martín
+134,18,Olivos
+135,18,Villa Martelli
+136,18,Florida Oeste
+137,18,Carapachay
+138,18,Vicente López
+139,18,Munro
+140,19,Azul
+141,20,Bahía Blanca
+142,20,Ingeniero White
+143,20,General Daniel Cerri
+144,21,Baradero
+145,22,Centro Agrícola El Pato
+146,22,Plátanos
+147,22,Ranelagh
+148,22,Berazategui Oeste
+149,22,Gutiérrez
+150,22,Guillermo Hudson
+151,22,Pereyra
+152,23,Los Talas
+153,23,Berisso
+154,23,El Carmen
+155,23,Villa Progreso
+156,24,Necochea
+157,24,Quequén
+158,25,Los Toldos
+159,26,Monte Grande
+160,26,El Jagüel
+161,26,Nueve De Abril
+162,26,Luis Guillón
+163,27,Brandsen
+164,28,Monte Chingolo
+165,28,Valentín Alsina
+166,28,Lanús Oeste
+167,28,Remedios De Escalada
+168,28,Lanús Este
+169,29,Nueve De Julio
+170,30,Gowland
+171,30,Mercedes
+172,31,Carmen De Areco
+173,32,Castelar
+174,32,El Palomar
+175,32,Morón
+176,32,Haedo
+177,33,Chascomús
+178,34,San Fernando
+179,34,Victoria
+180,34,Virreyes
+181,35,Chivilcoy
+182,36,Pérez Millan
+183,36,Ramallo
+184,36,Villa Ramallo
+185,37,William Morris
+186,37,Villa Tesei
+187,37,Hurlingham
+188,38,Solís
+189,38,San Andrés De Giles
+190,39,Dolores
+191,40,El Dique
+192,40,Ensenada
+193,40,Punta Lara
+194,41,Villa De Mayo
+195,41,Sourdeaux
+196,41,Pablo Nogués
+197,41,Los Polvorines
+198,41,Grand Bourg
+199,41,Tierras Altas
+200,41,Tortuguitas
+201,42,Zárate
+202,42,Escalada
+203,42,Lima
+204,43,Mar Del Plata
+205,43,Estación Chapadmalal
+206,43,Batán
+207,43,Sierra De Los Padres
+208,44,Garín
+209,44,Ingeniero Maschwitz
+210,44,Escobar
+211,44,Maquinista Savio
+212,44,Matheu
+213,45,Pavón
+214,45,Los Cardales
+215,45,Arroyo De La Cruz
+216,45,Robles
+217,46,San Nicolás De Los Arroyos
+218,47,Alejandro Korn
+219,47,San Vicente
+220,47,Domselaar
+221,48,El Libertador
+222,48,Caseros
+223,48,Churruca
+224,48,Remedios De Escalada
+225,48,Loma Hermosa
+226,48,Jose Ingenieros
+227,48,Ciudadela
+228,48,Santos Lugares
+229,49,Lobos
+230,50,Tristán Suárez
+231,50,Carlos Spegazzini
+232,50,Ezeiza
+233,50,La Unión
+234,51,Pehuajó
+235,52,Verónica
+236,53,General Conesa
+237,54,San Bernardo
+238,54,Santa Teresita
+239,54,Mar Del Tuyú
+240,54,San Clemente Del Tuyú
+241,54,Mar De Ajó
+242,55,Ituzaingó
+243,55,Villa Gobernador Udaondo
+244,55,Ituzaingó Norte
+245,56,Balcarce
+246,57,Pedro Luro
+247,57,Medanos
+248,57,Mayor Buratóvich
+249,57,Hilario Ascasubi
+250,58,Villa Gesell
+251,58,Mar Azul
+252,59,Capitán Sarmiento
+253,60,Beccar
+254,60,Boulogne Sur Mer
+255,60,San Isidro
+256,60,Martínez
+257,61,General Juan Madariaga
+258,62,Bragado
+259,63,Olavarría
+260,64,Junín
+261,64,Morse
+262,65,Pergamino
+263,65,Rancagua
+264,66,Lincoln
+265,67,Tandil
+266,68,Olivera
+267,68,Luján
+268,68,Lezica Y Torrezuri
+269,68,Open Door
+270,69,Santa María
+271,69,San Miguel
+272,69,Bella Vista
+273,69,Muñiz
+274,70,Punta Alta
+275,71,Salto
+276,72,Guernica
+277,72,Barrio America Unida
+278,73,Las Flores
+279,74,Magdalena
+280,75,Marcos Paz
+281,75,Barrio Santa Rosa
+282,76,Carmen De Patagones
+283,76,Villalonga
+284,77,Saladillo
+285,78,San Miguel Del Monte
+286,79,Arrecifes
+287,91,Córdoba Capital
+288,92,Estacion Juárez Celman
+289,92,Villa Allende
+290,92,Colonia Caroya
+291,92,Malvinas Argentinas
+292,92,Unquillo
+293,92,Jesús María
+294,92,La Calera
+295,92,Saldán
+296,92,Salsipuedes
+297,92,El Manzano
+298,93,Alta Gracia
+299,93,Bouwer
+300,93,Anisacate
+301,93,Malagueño
+302,94,Villa Giardino
+303,94,La Falda
+304,94,Santa María
+305,94,Cosquín
+306,94,Cuesta Blanca
+307,94,Villa Río Icho Cruz
+308,94,Tanti
+309,94,Villa Carlos Paz
+310,94,Bialet Massé
+311,94,Capilla Del Monte
+312,95,General Cabrera
+313,95,La Carlota
+314,96,Oncativo
+315,96,Río Segundo
+316,96,Pilar
+317,97,Morteros
+318,97,San Francisco
+319,97,Las Varillas
+320,97,Balnearia
+321,98,Villa Yacanto
+322,98,Villa General Belgrano
+323,98,Villa Ciudad Parques Los Reartes (1° Sección)
+324,98,Embalse
+325,99,Río Cuarto
+326,100,Villa Dolores
+327,100,La Ramada
+328,100,Las Tapias
+329,101,Río Tercero
+330,102,Bell Ville
+331,103,Villa Del Totoral
+332,104,Villa Nueva
+333,104,Villa María
+334,104,Sanabria
+335,104,Ticino
+336,105,Lucio V. Mansilla
+337,106,San Francisco Del Chañar
+338,112,Rosario
+339,112,Villa Gobernador Gálvez
+340,112,Pérez
+341,112,Granadero Baigorria
+342,112,Alvear
+343,112,Pueblo Esther
+344,112,General Lagos
+345,112,Fighiera
+346,112,Arroyo Seco
+347,112,Funes
+348,112,Ibarlucea
+349,112,Piñero
+350,112,Coronel Bogado
+351,113,San Lorenzo
+352,113,Capitán Bermúdez
+353,113,Roldán
+354,113,Puerto General San Martín
+355,113,Fray Luis Beltrán
+356,113,Timbúes
+357,131,Posadas
+358,131,Garupá
+359,131,Nemesio Parma
+360,131,Posadas (Extensión)
+361,132,Oberá
+362,132,Campo Viera
+363,132,Guaraní
+364,132,Los Helechos
+365,133,San Vicente
+366,133,Chacra 302
+367,133,Fracrán
+368,133,El Soberbio
+369,133,Kilómetro 300
+370,134,Eldorado
+371,134,9 De Julio Kilómetro 20
+372,134,Colonia Victoria
+373,134,María Magdalena
+374,134,Santiago De Liniers
+375,148,Salta Capital
+376,148,Villa San Lorenzo
+377,149,Cerrillos
+378,150,General Enrique Mosconi
+379,150,Tartagal
+380,150,Aguaray
+381,150,Profesor Salvador Mazza
+382,150,Embarcación
+383,150,Coronel Cornejo
+384,150,General Ballivián
+385,150,Hickman
+386,150,Dragones
+387,150,Carboncito
+388,150,Padre Lozano
+389,150,Campichuelo
+390,151,San Ramón De La Nueva Orán
+391,151,Aguas Blancas
+392,151,Pichanal
+393,151,Colonia Santa Rosa
+394,151,Hipólito Yrigoyen
+395,151,Paraje Saucelito
+396,151,Urundel
+397,152,Vaqueros
+398,152,La Caldera
+399,153,Rosario De La Frontera
+400,164,Puerto Vilelas
+401,164,Resistencia
+402,164,Barranqueras
+403,164,Fontana
+404,164,Basail
+405,165,Colonia Benítez
+406,165,Margarita Belén
+407,188,Santa Ana De Los Guácaras
+408,188,Paso De La Patria
+409,189,Corrientes
+410,189,Riachuelo
+411,189,Laguna Brava
+412,211,Neuquén
+413,211,Centenario
+414,211,Vista Alegre Norte
+415,211,Plottier
+416,211,Cutral Co
+417,211,Senillosa
+418,221,Cipolletti
+419,221,Allen
+420,221,General Roca
+421,221,Cinco Saltos
+422,221,General Fernández Oro
+423,221,Catriel
+424,221,Villa Regina
+425,221,Mainqué
+426,221,Barda Del Medio
+427,221,Cervantes
+428,221,Chichinales
+429,221,General Enrique Godoy
+430,221,Ingeniero Luis A. Huergo
+431,222,Balsa Las Perlas
+432,227,Puerto Madero
+433,227,Retiro
+434,228,Recoleta
+435,229,Barracas
+436,229,Nueva Pompeya
+437,229,La Boca
+438,230,Flores
+439,231,Villa Lugano
+440,231,Villa Soldati
+441,231,Villa Riachuelo
+442,232,Parque Avellaneda
+443,233,Chacarita
+444,233,Paternal
+445,223,San Carlos De Bariloche
+446,223,Villa Campanario
+447,223,El Bolsón
+448,236,Paraná
+449,236,Colonia Avellaneda
+450,236,San Benito
+451,236,Crespo
+452,236,Cerrito
+453,236,Villa Urquiza
+454,251,San Fernando Del Valle De Catamarca
+455,252,San Isidro
+456,252,Santa Cruz
+457,252,Pozo Del Mistol
+458,260,San Miguel De Tucumán
+459,261,El Manantial
+460,261,San Isidro De Lules
+461,261,Ingenio San Pablo
+462,261,La Reducción
+463,261,Barrio San Felipe
+464,262,Alderetes
+465,262,Banda Del Río Salí
+466,262,San Andrés
+467,262,Colombres
+468,262,Delfín Gallo
+469,262,Ex Ingenio Los Ralos
+470,262,Ingenio La Florida
+471,262,Ranchillos
+472,262,Villa Tercera
+473,262,Lastenia
+474,262,El Bracho
+475,262,Las Cejas
+476,277,Villa Mercedes
+477,278,San Luis
+478,278,Juana Koslay
+479,283,Chimbas
+480,284,Rivadavia
+481,284,La Bebida
+482,285,Santa Lucía
+483,285,Colonia Richet Zapata
+484,285,Alto de Sierra
+485,286,Caucete
+486,286,Pie De Palo
+487,286,Las Talas
+488,286,Los Médanos
+489,286,Bermejo
+490,286,Vallecito
+491,287,Villa Centenario
+492,287,Villa Aberastáin
+493,287,Carpintería
+494,287,La Rinconada
+495,288,San Juan
+496,80,Veinticinco De Mayo
+497,81,Monte Hermoso
+498,300,Ushuaia
+499,301,Río Grande
+500,114,Sauce Viejo
+501,114,Santo Tomé
+502,114,San José Del Rincón
+503,114,Santa Fe
+504,114,Arroyo Leyes
+505,114,Recreo
+506,114,Laguna Paiva
+507,114,Arroyo Aguiar
+508,115,Santa Rosa De Calchines
+509,115,Cayastá
+510,115,Helvecia
+511,303,La Rioja
+512,307,Formosa
+513,307,Villa del Carmen
+514,154,Joaquín V González
+515,154,Apolinario Saravia
+516,154,Coronel Mollinedo
+517,154,El Quebrachal
+518,154,Gaona
+519,154,Las Lajitas
+520,154,Luis Burela
+521,154,General Pizarro
+522,155,Metán
+523,155,El Galpón
+524,156,General Güemes
+525,156,Campo Santo
+526,156,Madre Vieja
+527,156,Cobos
+528,156,El Bordo
+529,237,Concordia
+530,237,Los Charrúas
+531,253,Belén
+532,254,Andalgalá
+533,255,Tinogasta
+534,256,Recreo
+535,256,Icaño
+536,256,Quirós
+537,256,San Antonio
+538,314,San Salvador De Jujuy
+539,314,San Pablo De Reyes
+540,314,Guerrero
+541,315,Monterrico
+542,315,Perico
+543,315,El Carmen
+544,315,Los Lapachos
+545,315,Pampa Blanca
+546,315,Aguas Calientes
+547,315,Puesto Viejo
+548,316,Palpalá
+549,317,Los Alisos
+550,318,San Pedro De Jujuy
+551,318,La Mendieta
+552,319,Humahuaca
+553,320,La Quiaca
+554,321,Libertador General San Martín
+555,321,Caimancito
+556,321,Calilegua
+557,321,Yuto
+558,321,Bananal
+559,321,Chalicán
+560,321,Fraile Pintado
+561,325,Los Corralitos
+562,325,Puente De Hierro
+563,325,Guaymallén
+564,325,Buena Nueva
+565,325,Bermejo
+566,325,Jesús Nazareno
+567,325,Rodeo De La Cruz
+568,325,Colonia Segovia
+569,325,Colonia Molina
+570,325,El Sauce
+571,326,Rodeo Del Medio
+572,326,Fray Luis Beltrán
+573,326,Russell
+574,326,San Roque
+575,326,Maipú
+576,326,General Ortega
+577,326,Lulunta
+578,326,Cruz De Piedra
+579,326,Coquimbito
+580,327,Las Heras
+581,327,Panquehua
+582,327,El Borbollón
+583,327,El Plumerillo
+584,327,El Challao
+585,327,Uspallata
+586,327,Capdevila
+587,327,El Pastal
+588,327,El Algarrobal
+589,327,Jocolí
+590,327,El Borbollon
+591,328,Sarmiento
+592,328,Villa del Parque
+593,328,San Vicente
+594,328,Godoy Cruz
+595,328,Trapiche
+596,328,Gobernador Benegas
+597,329,Mendoza
+598,330,Palmira
+599,330,San Martín
+600,330,Chapanay
+601,330,Tres Porteñas
+602,331,Villa Tulumaya
+603,331,Lavalle
+604,331,Costa De Araujo
+605,331,3 De mayo
+606,331,Barrio La Palmera
+607,331,El Paramillo
+608,331,Ingeniero Gustavo André
+609,331,Jocolí
+610,331,Jocolí Viejo
+611,331,Barrio Alto Del Olvido
+612,332,Vertientes del Pedemonte
+613,332,Chacras De Coria
+614,332,Mayor Drummond
+615,332,Luján De Cuyo
+616,332,Perdriel
+617,332,Ugarteche
+618,332,Agrelo
+619,332,Potrerillos
+620,333,Tunuyán
+621,333,Vista Flores
+622,333,Colonia Las Rosas
+623,334,General Alvear
+624,334,Bowen
+625,334,Carmensa
+626,335,Rivadavia
+627,335,Andrade
+628,335,Los Árboles
+629,336,San Carlos
+630,336,Eugenio Bustos
+631,336,Chilecito
+632,336,La Consulta
+633,336,Pareditas
+634,336,Barrio El Cepillo
+635,337,Tupungato
+636,337,La Arboleda
+637,337,El Peral
+638,337,Belgrano Norte
+639,337,Anchoris
+640,337,Villa Bastias
+641,338,Malargüe
+642,339,San Rafael
+643,339,Cuadro Benegas
+644,339,Las Paredes
+645,339,El Nihuil
+646,339,Goudge
+647,339,Jaime Prats
+648,339,Las Malvinas
+649,339,Pobre Diablo
+650,339,Salto De Las Rosas
+651,339,Villa Atuel Norte
+652,342,La Banda
+653,342,Clodomira
+654,342,Simbolar
+655,343,Frías
+656,343,Tapso
+657,344,Santiago Del Estero
+658,344,El Zanjón
+659,345,Monte Quemado
+660,345,Pampa De Los Guanacos
+661,345,El Caburé
+662,345,Los Tigres
+663,345,Los Pirpintos
+664,346,Quimili
+665,346,Tintina
+666,347,Añatuya
+667,361,Rawson
+668,361,Trelew
+669,362,Puerto Madryn
+670,363,Comodoro Rivadavia
+671,364,Esquel
+672,364,Trevelín
+673,190,Saladas
+674,190,San Lorenzo
+675,191,Goya
+676,192,Santa Lucía
+677,192,Lavalle
+678,193,Bella Vista
+679,194,Esquina
+680,194,Pueblo Libertador
+681,195,Monte Caseros
+682,196,San Luis Del Palmar
+683,197,Mercedes
+684,198,Paso De Los Libres
+685,199,Santo Tomé
+686,199,Gobernador Igr. Valentín Virasoro
+687,200,Curuzú Cuatiá
+688,200,Perugorría
+689,238,Gualeguay
+690,239,Concepción Del Uruguay
+691,240,Gualeguaychú
+692,241,Nogoyá
+693,242,Victoria
+694,242,Rincón de Nogoyá
+695,242,El Espinillo
+696,243,Diamante
+697,244,Rosario Del Tala
+698,244,Maciá
+699,245,Chajarí
+700,245,Federación
+701,246,San José
+702,246,Colón
+703,308,Clorinda
+704,308,Laguna Naick-Neck
+705,308,Riacho He-He
+706,309,Pirané
+707,309,El Colorado
+708,309,Colonia Campo Villafañe
+709,309,Palo Santo
+710,310,Ingeniero Juárez
+711,311,Las Lomitas
+712,311,Comandante Fontana
+713,311,Estanislao Del Campo
+714,311,San Martín II
+715,311,Villa General Güemes
+716,224,Viedma
+717,224,El Cóndor
+718,225,San Antonio Oeste
+719,225,Las Grutas
+720,225,Sierra Grande
+721,368,Río Gallegos
+722,368,28 De noviembre
+723,166,Charata
+724,167,Presidencia Roque Sáenz Peña
+725,168,General Pinedo
+726,168,Gancedo
+727,169,Quitilipi
+728,170,General José de San Martín
+729,170,Pampa Del Indio
+730,171,Tres Isletas
+731,172,Juan José Castelli
+732,172,El Sauzalito
+733,172,Miraflores
+734,172,Nueva Pompeya
+735,172,Villa Río Bermejito
+736,173,La Leonesa
+737,173,Las Palmas
+738,174,Las Breñas
+739,175,Villa Ángela
+740,175,Coronel Du Graty
+741,176,Machagai
+742,135,Hipólito Yrigoyen
+743,135,Jardín América
+744,135,San Ignacio
+745,135,Gobernador Roca
+746,135,Santo Pipó
+747,135,Roca Chica
+748,136,Puerto Esperanza
+749,136,Puerto Iguazú
+750,136,Colonia Wanda
+751,136,Puerto Libertad
+752,137,Puerto Rico
+753,137,El Alcázar
+754,137,Garuhapé
+755,137,Puerto Leoni
+756,138,Leandro N Alem
+757,138,Cerro Azul
+758,138,Dos Arroyos
+759,138,Olegario V. Andrade
+760,139,Apóstoles
+761,139,Estación Apóstoles
+762,139,San José
+763,139,Tres Capones
+764,140,San Pedro
+765,140,Pozo Azul
+766,141,Aristóbulo Del Valle
+767,141,Campo Grande
+768,141,Dos de Mayo Núcleo II
+769,141,Dos De Mayo Núcleo III (Bº Bernardino Rivadavia)
+770,141,Pueblo Illia
+771,142,Candelaria
+772,142,Loreto
+773,142,Mártires
+774,142,Puerto Santa Ana
+775,142,Santa Ana
+776,143,Montecarlo
+777,143,Puerto Piray
+778,212,Junín De Los Andes
+779,213,San Martín De Los Andes
+780,214,Rincón De Los Sauces
+781,215,Zapala
+782,215,Mariano Moreno
+783,116,Venado Tuerto
+784,116,Firmat
+785,116,Chovet
+786,117,Avellaneda
+787,117,Las Toscas
+788,117,Villa Ocampo
+789,117,Reconquista
+790,117,Tacuarendí
+791,117,Florencia
+792,117,Ingeniero Chanourdie
+793,117,Malabrigo
+794,117,Villa Ana
+795,117,Villa Guillermina
+796,117,Hardy
+797,117,Berna
+798,117,Las Garzas
+799,117,Guadalupe Norte
+800,118,Calchaquí
+801,118,Margarita
+802,118,Vera
+803,118,Garabato
+804,119,Casilda
+805,119,Arequito
+806,120,Coronda
+807,120,Barrancas
+808,120,Desvío Arijón
+809,120,Arocena
+810,120,Gaboto
+811,120,Maciel
+812,121,Esperanza
+813,121,Pilar
+814,121,Progreso
+815,121,Santa Clara De Buena Vista
+816,122,Frontera
+817,122,Rafaela
+818,122,Santa Clara De Saguier
+819,122,Nueva Lehmann
+820,123,San Cristóbal
+821,123,San Guillermo
+822,123,Villa Trinidad
+823,123,Colonia Rosa
+824,123,La Lucila
+825,124,San Jorge
+826,124,El Trébol
+827,125,Tostado
+828,125,Villa Minetti
+829,125,Gato Colorado
+830,126,Villa Constitución
+831,263,Aguilares
+832,263,Río Chico
+833,263,Santa Ana
+834,263,Monte Bello
+835,264,Famaillá
+836,265,Juan Bautista Alberdi
+837,265,Villa Belgrano
+838,266,Bella Vista
+839,266,Pala Pala
+840,266,Río Colorado
+841,267,Monteros
+842,267,Acheral
+843,267,Santa Lucía
+844,267,Villa Quinteros
+845,267,Teniente Berdina
+846,267,Comuna Leon Rouges y Santa Rosa
+847,267,Sargento Moya
+848,268,Tafí Viejo
+849,268,Los Nogales
+850,268,Las Talitas
+851,268,"Diagonal Norte, Luz Y Fuerza, Los Pocitos, Villa Nueva Italia"
+852,268,San José
+853,268,Raco
+854,269,Yerba Buena - Marcos Paz
+855,269,Barrio San José III
+856,269,Villa Carmela
+857,270,Alto Verde
+858,270,Arcadia
+859,270,Concepción
+860,270,San Roque
+861,270,La Trinidad
+862,270,Iltico
+863,247,La Paz
+864,247,Bovril
+865,247,Santa Elena
+866,247,Colonia Avigdor
+867,144,Comandante Andresito
+868,144,Bernardo De Irigoyen
+869,144,San Antonio
+870,144,Dos Hermanas
+871,127,Correa
+872,127,Cañada De Gómez
+873,127,Totoras
+874,127,Oliveros
+875,128,San Javier
+876,128,Romang
+877,289,Ullum
+878,289,Villa Ibáñez
+879,290,Médano De Oro
+880,107,Montecristo
+881,107,Río Primero
+882,201,Santa Rosa
+883,201,Concepción
+884,201,Tabay
+885,157,Rosario De Lerma
+886,157,La Silleta
+887,157,Campo Quijano
+888,82,Las Armas
+889,371,25 De mayo
+890,372,Toay
+891,83,Ostende
+892,234,Palermo
+893,340,Las Catitas
+894,340,Barrio 12 De Octubre
+895,340,La Dormida
+896,340,Santa Rosa
+897,84,Castelli
+898,85,Miramar
+899,235,Caballito
+900,365,Sarmiento
+901,302,Tolhuin
+902,348,Nueva Esperanza
+903,291,Villa Santa Rosa
+904,291,Tupelí
+905,291,Villa Borjas
+906,291,Villa El Tango
+907,322,Abra Pampa
+908,366,Lago Puelo
+909,366,El Maitén
+910,366,El Hoyo
+911,86,Chacabuco
+912,87,General Villegas
+913,216,Añelo
+914,216,San Patricio Del Chañar
+915,217,Aluminé
+916,369,Comandante Luis Piedrabuena
+917,370,Caleta Olivia
+918,370,Las Heras
+919,370,Pico Truncado
+920,88,Coronel Dorrego
+921,226,Ingeniero Jacobacci
+922,257,Chumbicha
+923,257,Huillapima
+924,257,Colonia Nueva Coneta
+925,258,El Hueco
+926,258,La Falda De San Antonio
+927,259,Amadores
+928,304,Olta
+929,305,Milagro
+930,177,Hermoso Campo
+931,178,Concepción Del Bermejo
+932,178,Los Frentones
+933,178,Pampa Del Infierno
+934,178,Taco Pozo
+935,179,Santa Sylvina
+936,180,Corzuela
+937,181,Makallé
+938,181,Lapachito
+939,182,Avia Terai
+940,182,Campo Largo
+941,182,Napenay
+942,183,Puerto Tirol
+943,184,La Clotilde
+944,184,San Bernardo
+945,185,Presidencia De La Plaza
+946,186,Villa Berthet
+947,187,Colonia Elisa
+948,187,Colonias Unidas
+949,187,Las Garcitas
+950,108,Cruz Del Eje
+951,108,San Marcos Sierra
+952,109,Hipólito Bouchard
+953,110,Villa De María
+954,248,Villa Paranacito
+955,248,Ibicuy
+956,202,Empedrado
+957,203,Alvear
+958,204,Nuestra Señora Del Rosario De Caá Catí
+959,205,Itatí
+960,205,Ramada Paso
+961,206,San Carlos
+962,206,Ituzaingó
+963,207,Mburucuyá
+964,208,San Miguel
+965,209,9 De julio
+966,209,San Roque
+967,312,Laguna Yema
+968,129,Tortugas
+969,323,El Talar
+970,323,Palma Sola
+971,323,Santa Clara
+972,323,El Piquete
+973,324,Maimará
+974,324,Tilcara
+975,324,Huacalera
+976,341,Desaguadero
+977,145,Itacaruaré
+978,145,San Javier
+979,146,25 De mayo
+980,146,Paraje Itatí
+981,146,San Francisco De Asís
+982,249,Federal
+983,250,Villaguay
+984,89,Carlos Casares
+985,373,Catriló
+986,218,Chos Malal
+987,219,Loncopué
+988,220,Picún Leufú
+989,158,Cachi
+990,159,El Jardín
+991,159,El Tala
+992,160,Coronel Moldes
+993,161,San Antonio De Los Cobres
+994,162,Coronel Juan Solá
+995,162,La Unión
+996,162,Santa Rosa
+997,163,San Carlos
+998,292,Campo Afuera
+999,292,El Rincón
+1000,293,Las Tapias
+1001,293,Villa El Salvador
+1002,294,Calingasta
+1003,295,San José De Jáchal
+1004,296,Villa Dominguito
+1005,297,Cochagual
+1006,297,Colonia Fiscal
+1007,297,Punta Del Médano
+1008,297,Tres Esquinas
+1009,297,Villa Media Agua
+1010,298,Villa San Agustín
+1011,279,Quines
+1012,280,Concarán
+1013,281,Buena Esperanza
+1014,281,Unión
+1015,282,Merlo
+1016,130,San Justo
+1017,349,Campo Gallo
+1018,349,Sachayoj
+1019,350,Villa Atamisqui
+1020,351,Colonia Dora
+1021,351,Icaño
+1022,352,El Bobadal
+1023,352,Pozo Hondo
+1024,353,Suncho Corral
+1025,354,Villa Ojo De Agua
+1026,355,Termas De Río Hondo
+1027,355,Villa Giménez
+1028,356,Colonia El Simbolar
+1029,356,Fernández
+1030,357,Garza
+1031,367,Dolavon
+1032,367,Gaiman
+1033,271,Garmendia
+1034,271,Villa Burruyacú
+1035,272,Graneros
+1036,272,Lamadrid
+1037,272,Taco Ralo
+1038,273,La Cocha
+1039,274,Simoca
+1040,274,Atahona
+1041,275,Amaicha Del Valle
+1042,275,Colalao Del Valle
+1043,275,Tafí Del Valle
+1044,276,San Pedro De Colalao
+1045,276,Villa De Trancas
+1046,276,Vipo
+1047,276,Tapia
+1048,276,Choromoro
+1049,90,Tres Arroyos
+1050,306,Aimogasta
+1051,111,San Carlos Minas
+1052,210,Yahapé
+1053,313,General Mosconi
+1054,147,Concepción De La Sierra
+1055,374,Santa Rosa
+1056,375,Santa Isabel
+1057,299,Zonda
+1058,358,Villa San Martín (Est. Loreto)
+1059,359,Villa San Martín (Est. Loreto)
+1060,360,San Pedro

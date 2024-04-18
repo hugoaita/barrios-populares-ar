@@ -1,0 +1,9 @@
+id_efluentes_cloacales,efluentes_cloacales
+1,Desagüe a cámara séptica y pozo ciego
+2,Desagüe sólo a pozo negro/ciego u hoyo
+3,Conexión formal a la red cloacal
+4,Conexión irregular a la red cloacal
+5,Red cloacal conectada a la red pluvial
+6,Desagüe a intemperie o cuerpo de agua
+7,Baño seco
+8,Biodigestor para tratar efluentes cloacales

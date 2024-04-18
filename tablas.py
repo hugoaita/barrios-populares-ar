@@ -75,7 +75,7 @@ departamento.drop(['index'], axis=1, inplace=True)
 df2 = pd.merge(departamento, provincia, on='provincia', how='outer')
 
 # Drop duplicate rows
-df3 = df2[['departamento', 'provincia', 'id_provincia']].drop_duplicates().reset_index(drop=True)
+df3 = df2[['id_provincia', 'departamento', 'provincia']].drop_duplicates().reset_index(drop=True)
 
 # Set index name
 df3.index = df3.index + 1
@@ -105,7 +105,7 @@ localidad.drop(['index'], axis=1, inplace=True)
 df2 = pd.merge(localidad, departamento, on=['departamento', 'provincia'], how='outer')
 
 # Drop duplicate rows
-df3 = df2[['localidad', 'departamento', 'id_departamento']].drop_duplicates().reset_index()
+df3 = df2[['id_departamento', 'localidad', 'departamento']].drop_duplicates().reset_index()
 
 # Set index name
 df3.index = df3.index + 1
@@ -113,7 +113,7 @@ df3.index.name = 'id_localidad'
 df3.reset_index(inplace=True)
 
 # Drop provincias column
-localidad_table = pd.DataFrame(df3[['departamento', 'id_localidad', 'id_departamento', 'localidad']])
+localidad_table = pd.DataFrame(df3[['id_localidad', 'id_departamento', 'localidad']])
 
 # Save table to 'departamento.csv'
 localidad_table.to_csv('./localidad.csv', index=False)
@@ -164,14 +164,15 @@ clasificacion_barrio = df[['clasificacion_barrio']].reset_index()
 clasificacion_barrio.drop(['id_renabap'], axis=1, inplace=True)
 clasificacion_barrio.drop_duplicates(inplace=True)
 clasificacion_barrio.reset_index(inplace=True)
+clasificacion_barrio.index = clasificacion_barrio.index + 1
+clasificacion_barrio.index.name = 'id_clasificacion_barrio'
 
-clasificacion_barrio.drop(['index'], axis=1, inplace=True)
 clasificacion_barrio.reset_index(inplace=True)
 
 
-# clasificacion_barrio = clasificacion_barrio[['id_clasificacion_barrio', 'clasificacion_barrio']]
+clasificacion_barrio = clasificacion_barrio[['id_clasificacion_barrio', 'clasificacion_barrio']]
 
-outfile = './clasificacion_barrios.csv'
+outfile = './clasificacion_barrio.csv'
 
 clasificacion_barrio.to_csv(outfile, index=False)
 
@@ -268,6 +269,6 @@ df10.drop_duplicates(inplace=True)
 df11 = pd.merge(df10, localidad, on=['id_departamento', 'localidad'], how='outer')
 df11.drop_duplicates(inplace=True)
 
-df11.drop(['provincia_x', 'index_x', 'level_0', 'anio_de_creacion', 'departamento_x', 'departamento_y', 'departamento_y', 'provincia_y', 'localidad'], axis=1, inplace=True)
+df11.drop(['provincia_x', 'index', 'level_0', 'anio_de_creacion',  'provincia_y', 'localidad'], axis=1, inplace=True)
 
 df11.to_csv('barrio.csv', index=False)
